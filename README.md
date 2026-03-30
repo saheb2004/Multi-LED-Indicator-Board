@@ -1,7 +1,7 @@
 # Multi LED Indicator Board
 
 **Description:**  
-Industrial LED Indicator Panel Simulation project for CAPE Electric type company.
+Industrial LED Indicator Panel Simulation project.
 
 **Components:**  
 - 5 LEDs (POWER, READY, RUN, FAULT, E-STOP)  
